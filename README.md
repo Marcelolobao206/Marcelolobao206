@@ -1,6 +1,6 @@
 ## Hello! I'm Marcelo Lobao 🐺 
 
-- :man_student:Information System Student 5 period
+- :man_student:Information System Student 4 period
 -
 -
 -
