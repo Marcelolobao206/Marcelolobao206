@@ -2,7 +2,7 @@
 
 ### Programador Back-end
 
-- :man_student:Information System Student 4 period
+- :man_student:Information System Student 5 period
 
 ### 💬 Fale comigo:
 
