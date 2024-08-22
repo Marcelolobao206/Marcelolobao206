@@ -1,4 +1,4 @@
-## Hello! I'm Marcelo Lobao 🐺 
+## Hello! I'm Marcelo Lobão 
 
 ### Programador Back-end
 
